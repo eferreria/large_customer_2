@@ -4,3 +4,6 @@ connection: "thelook_events"
 # include all the views
 # edit on 12/16 for demo
 include: "*.view"
+
+
+# changing and asking for PR
